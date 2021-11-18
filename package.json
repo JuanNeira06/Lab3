@@ -1,0 +1,15 @@
+{
+  "name": "4_en_raya",
+  "version": "1.0.0",
+  "description": "Juego en linea con phaser 3 y socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Neira",
+  "license": "ISC",
+  "dependencies": {
+    "arraylist": "^0.1.0",
+    "phaser": "^3.55.2"
+  }
+}
